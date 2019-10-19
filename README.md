@@ -1,16 +1,14 @@
-# engenhar_frontend
+# comunicalab-frontend
+Esse é o repositório da parte front-end do projeto Comunica-Lab. Para rodar localmente, siga os seguintes passos:
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Caso ainda não tenha feito, configure sua IDE de preferência e baixe o SDK do Flutter. É recomendado checar a [documentação do Flutter](https://flutter.dev/docs/get-started) para isso. 
+2. Baixe o projeto e o coloque na sua maquina.
+3. Conecte algum dispositivo mobile na sua maquina local. Certifique-se que o dispositivo está conectado executando o comando:
+```
+flutter devices
+```
+4. Finalmente, teste o projeto navegando para a pasta raiz dele e, em seguida, executando o comando:
+```
+flutter run
+```
+Para mais detalhes sobre estes passos e outras coisas relacionadas ao Flutter, acesse a [documentação do Flutter](https://flutter.dev/docs/get-started) feita pela google.
